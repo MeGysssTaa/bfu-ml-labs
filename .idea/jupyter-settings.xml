@@ -5,21 +5,21 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
-          <option name="token" value="40d5b1e8a8be96710df614746aee49b15658ff691e093a9d" />
+          <option name="token" value="f74e2eda3b3281ab4786c3055673e768f6e93d771fbee4ed" />
           <option name="urlString" value="http://127.0.0.1:8888" />
           <authParams2>
             <map>
-              <entry key="token" value="40d5b1e8a8be96710df614746aee49b15658ff691e093a9d" />
+              <entry key="token" value="f74e2eda3b3281ab4786c3055673e768f6e93d771fbee4ed" />
             </map>
           </authParams2>
         </JupyterConnectionParameters>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
-          <option name="token" value="5550509234f280ec7f995c590cffd047bed56a97ded85d10" />
+          <option name="token" value="06404b3203d353fbba566a68680002f4919e53f458ab7e32" />
           <option name="urlString" value="http://localhost:8888" />
           <authParams2>
             <map>
-              <entry key="token" value="5550509234f280ec7f995c590cffd047bed56a97ded85d10" />
+              <entry key="token" value="06404b3203d353fbba566a68680002f4919e53f458ab7e32" />
             </map>
           </authParams2>
         </JupyterConnectionParameters>
@@ -31,11 +31,11 @@
           <value>
             <JupyterConnectionParameters>
               <option name="authType" value="notebook" />
-              <option name="token" value="40d5b1e8a8be96710df614746aee49b15658ff691e093a9d" />
+              <option name="token" value="f74e2eda3b3281ab4786c3055673e768f6e93d771fbee4ed" />
               <option name="urlString" value="http://127.0.0.1:8888" />
               <authParams2>
                 <map>
-                  <entry key="token" value="40d5b1e8a8be96710df614746aee49b15658ff691e093a9d" />
+                  <entry key="token" value="f74e2eda3b3281ab4786c3055673e768f6e93d771fbee4ed" />
                 </map>
               </authParams2>
             </JupyterConnectionParameters>
